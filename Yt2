@@ -1,0 +1,13 @@
+{
+  "name": "YouTube Repo",
+  "description": "YouTube provider for CloudStream",
+  "manifestVersion": 1,
+  "plugins": [
+    {
+      "name": "YouTube",
+      "filename": "YouTubeProvider.kt",
+      "version": 1
+    }
+  ]
+}
+YouTubeProvider.kt
